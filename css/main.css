@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+}
+img{
+    width: 100%;
+}
+#avatar{
+    padding: 4px;
+    border-radius: 15%;
+    border: 1px solid blue;
+}
+.container{
+    border-radius: 5%;
+}
+.add{
+    color: black;
+}
+#mod{
+    background: #201E1E;
+    color: white;
+}
+.close{
+    color: white;
+}
+.btn-info{
+    float: left;
+    margin: 5px;
+    text-align: center;
+    letter-spacing: 2px;
+    width: 18vh;
+}
